@@ -1,4 +1,4 @@
-package domain;
+package br.com.victor.domain;
 
 import java.util.Objects;
 

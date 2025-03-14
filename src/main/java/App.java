@@ -1,6 +1,6 @@
-import DAO.ClienteSetDAO;
-import DAO.IClienteDAO;
-import domain.Cliente;
+import br.com.victor.DAO.ClienteSetDAO;
+import br.com.victor.DAO.IClienteDAO;
+import br.com.victor.domain.Cliente;
 
 import javax.swing.*;
 

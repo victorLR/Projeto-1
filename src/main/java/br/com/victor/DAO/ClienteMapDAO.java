@@ -1,6 +1,6 @@
-package DAO;
+package br.com.victor.DAO;
 
-import domain.Cliente;
+import br.com.victor.domain.Cliente;
 
 import java.util.Collection;
 import java.util.Map;
